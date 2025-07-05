@@ -2,7 +2,7 @@
 
 **Mechanical Engineering Student** at the Aristotle University of Thessaloniki  
 **Specializing in**: System Identification and Control  
-**Interested in**: Optimization · FEM · Aerospace Design · Data Analysis 
+**Experienced with**: Optimization · Finite Element Method · Aerospace Design · Data Analysis 
 
 ---
 
@@ -11,7 +11,7 @@
 
 🛰 Past contributor at **[SpaceDot](https://gitlab.com/acubesat)** on the **ACubeSAT** project, where I worked on a wide range of engineering challenges in a cubesat project under the umbrella of **"FYS!3"** of the educational office of the **European Space Agency**.
 
-💡 Deeply interested in:
+💡 Interested in:
 - System Identification & Control
 - Game Theory (Iterated Prisoner’s Dilemma simulations coming soon)
 - Cubesats and Aerospace Systems
