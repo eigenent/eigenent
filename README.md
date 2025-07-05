@@ -1,21 +1,23 @@
 # 👨‍🚀 Dimitris Nentidis (eigenent)
 
 **Mechanical Engineering Student** at the Aristotle University of Thessaloniki  
-**Specializing in**: System Control · Optimization · FEM · Aerospace Design · Data Analysis
+**Specializing in**: System Identification and Control  
+**Interested in**: Optimization · FEM · Aerospace Design · Data Analysis 
 
 ---
 
 🎓 Currently completing my integrated Master’s thesis:  
 **“Active Thermal Control Study on a Biological CubeSat Payload”**
 
-🛰 Past contributor at **[SpaceDot](https://gitlab.com/acubesat)** on the **ACubeSAT** project, where I worked on a wide range of engineering challenges in aerospace systems.
+🛰 Past contributor at **[SpaceDot](https://gitlab.com/acubesat)** on the **ACubeSAT** project, where I worked on a wide range of engineering challenges in a cubesat project under the umbrella of **"FYS!3"** of the educational office of the **European Space Agency**.
 
 💡 Deeply interested in:
 - System Identification & Control
 - Game Theory (Iterated Prisoner’s Dilemma simulations coming soon)
-- Aerospace Design & CubeSats
+- Cubesats and Aerospace Systems
 - Process Optimization
-- Scientific Machine Learning & Autonomous Systems
+- Scientific Machine Learning 
+- Autonomous Systems
 
 ---
 
@@ -28,28 +30,16 @@ SolidWorks · ANSA · Simcenter · HyperWorks
 
 ## 📂 Key Repositories (Coming Soon)
 
-- 🔬 **Thesis** – Active thermal control for CubeSat bio payloads  
-- 🧪 **Bio Payload** – Design & simulation of a biological experiment CubeSat payload  
-- 🧠 **Iterated Prisoner’s Dilemma** – Game theory experiments and evolutionary strategies
+- 🔬 **Thesis** – A study on active thermal control for s cubesats' biological payload  
+- 🧪 **Mechanical Design** – A guide through a major redesign of AcubeSATs' biological payload 
+- 🧠 **Iterated Prisoner’s Dilemma** – Game theory experiments and evolutionary strategies with a twist 
 
 ---
 
-## 🔗 Connect with Me
+## 🔗 Reach out
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/dimitris-nentidis-151b78254)
-- 📧 dimitrisnentis@gmail.com  
 - 🧪 [GitLab Profile](https://gitlab.com/diminent)
+- 📧 dimitrisnentis@gmail.com  
 
----
-
-## 🎞️ Something Cool
-
-![SpaceCube](https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif)
-
-> *A little visual inspiration from the world of satellites and science...*
-
----
-
-> *“In theory, there is no difference between theory and practice. In practice, there is.”*  
-> — Yogi Berra (or maybe von Neumann)
 
