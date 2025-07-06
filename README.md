@@ -32,7 +32,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="assets/gams-removebg-preview.png" alt="GAMS" width="90" height="90" style="vertical-align: middle;"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/solidworks-removebg-preview.png" alt="SolidWorks" width="100" height="100"  style="vertical-align: +100px;" />
+  <img src="assets/solidworks-removebg-preview.png" alt="SolidWorks" width="100" height="100"  style="vertical-align: middle;"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="assets/ansa-removebg-preview.png" alt="ANSA" width="80" height="80" style="vertical-align: middle;"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
