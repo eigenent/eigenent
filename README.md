@@ -19,14 +19,20 @@
 - Scientific Machine Learning 
 - Autonomous Systems
 
----
-
 ## 🧰 Toolbox
 
-MATLAB · Simulink · Python · GAMS ·  
-SolidWorks · ANSA · Simcenter · HyperWorks
+<p align="center">
+  <img src="assets/matlab.png" alt="MATLAB" width="48" height="48"/> 
+  <img src="assets/simulink.png" alt="Simulink" width="48" height="48"/> 
+  <img src="assets/python.png" alt="Python" width="48" height="48"/> 
+  <img src="assets/gams.png" alt="GAMS" width="48" height="48"/> 
+  <img src="assets/solidworks.png" alt="SolidWorks" width="48" height="48"/> 
+  <img src="assets/ansa.png" alt="ANSA" width="48" height="48"/> 
+  <img src="assets/simcenter.png" alt="Simcenter" width="48" height="48"/> 
+  <img src="assets/hyperworks.png" alt="HyperWorks" width="48" height="48"/>
+</p>
 
----
+
 
 ## 📂 Key Repositories (Coming Soon)
 
