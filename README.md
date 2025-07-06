@@ -19,18 +19,27 @@
 - Scientific Machine Learning 
 - Autonomous Systems
 
-## 🧰 Toolbox
 
+## 🧰 Toolbox
 <p align="center">
-  <img src="assets/matlab.png" alt="MATLAB" width="48" height="48"/>&nbsp;&nbsp;&nbsp;
-  <img src="assets/simulink.png" alt="Simulink" width="48" height="48"/>&nbsp;&nbsp;&nbsp;
-  <img src="assets/python.png" alt="Python" width="48" height="48"/>&nbsp;&nbsp;&nbsp;
-  <img src="assets/gams-removebg-preview.png" alt="GAMS" width="90" height="90"/>&nbsp;&nbsp;&nbsp;
-  <img src="assets/solidworks.png" alt="SolidWorks" width="100" height="100"/>&nbsp;&nbsp;&nbsp;
-  <img src="assets/ansa-removebg-preview.png" alt="ANSA" width="80" height="80"/>&nbsp;&nbsp;&nbsp;
-  <img src="assets/simcenter.png" alt="Simcenter" width="48" height="48"/>&nbsp;&nbsp;&nbsp;
-  <img src="assets/hyperworks.png" alt="HyperWorks" width="70" height="70" style="margin-top:5000px;"/>
+  <img src="assets/matlab.png" alt="MATLAB" width="48" height="48"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/simulink.png" alt="Simulink" width="48" height="48"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/python.png" alt="Python" width="48" height="48"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/gams-removebg-preview.png" alt="GAMS" width="100" height="100"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/solidworks.png" alt="SolidWorks" width="100" height="100"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/ansa-removebg-preview.png" alt="ANSA" width="64" height="64"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/simcenter logo.png" alt="Simcenter" width="48" height="48"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/hyperworks.png" alt="HyperWorks" width="64" height="64"/>
 </p>
+
+
 ## 📂 Key Repositories (Coming Soon)
 
 - 🔬 **Thesis** – A study on active thermal control for s cubesats' biological payload  
