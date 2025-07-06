@@ -40,6 +40,5 @@ SolidWorks · ANSA · Simcenter · HyperWorks
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/dimitris-nentidis-151b78254)
 - 🧪 [GitLab Profile](https://gitlab.com/diminent)
-- 📧 dimitrisnentis@gmail.com  
 
 
