@@ -1,4 +1,4 @@
-# 👨‍🚀 Dimitris Nentidis 
+# Dimitris Nentidis 
 
 **Mechanical Engineering Student** at the Aristotle University of Thessaloniki  
 **Specializing in**: System Identification and Control  
