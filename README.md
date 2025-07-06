@@ -1,4 +1,4 @@
-# 👨‍🚀 Dimitris Nentidis (eigenent)
+# 👨‍🚀 Dimitris Nentidis 
 
 **Mechanical Engineering Student** at the Aristotle University of Thessaloniki  
 **Specializing in**: System Identification and Control  
@@ -30,15 +30,15 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="assets/python-removebg-preview.png" alt="Python" width="48" height="48" style="vertical-align: middle;"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/gams-removebg-preview.png" alt="GAMS" width="90" height="90" style="vertical-align: middle;"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/solidworks-removebg-preview.png" alt="SolidWorks" width="100" height="100"  style="vertical-align: middle;"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/ansa-removebg-preview.png" alt="ANSA" width="80" height="80" style="vertical-align: middle;"/>
+  <img src="assets/solidworks_4-removebg-preview.png" alt="SolidWorks" width="130" height="130"  style="vertical-align: middle;"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="assets/simcenter logo.png" alt="Simcenter" width="48" height="48" style="vertical-align: middle;"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/hyperworks.png" alt="HyperWorks" width="64" height="64" style="vertical-align: middle;"/>
+  <img src="assets/gams-removebg-preview.png" alt="GAMS" width="90" height="90" style="vertical-align: middle;"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/ansa-removebg-preview.png" alt="ANSA" width="80" height="80" style="vertical-align: middle;"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/altair_1-removebg-preview.png" alt="HyperWorks" width="100" height="80" style="vertical-align: middle;"/>
 </p>
 
 
